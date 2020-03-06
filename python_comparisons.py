@@ -1,11 +1,11 @@
 name = input("Please enter your name: ")
-number = input("Please enter a number: ")
-
-# TODO: Make sure the number is an integer
-
+print(f"Hello, {name}.")
+number = int(input("Please enter a number: "))
+print(f"You've entered {number}.")
 
 # TODO: Print out the User's name and the number entered,
 # making sure the two statements are on separate lines of output.
+
 
 
 # TODO: Compare the number the user gave with the different
